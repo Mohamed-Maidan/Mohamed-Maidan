@@ -60,3 +60,67 @@ I'm continuing to develop my skills through real-world projects and preparing fo
 </div>
 
 ---
+
+## 🚀 Featured IT Projects
+
+<div align="center">
+
+### Building practical skills through hands-on projects
+
+</div>
+
+### ☕ Café Calle Ocho — Flask Ordering Application
+
+**Python | Flask | SQLite | HTML | CSS**
+
+Developed a café ordering prototype featuring menu browsing,
+order management, a kitchen dashboard, and order history.
+
+[![View Project](https://img.shields.io/badge/View_Project-GitHub-00BFFF?style=for-the-badge&logo=github)](https://github.com/Mohamed-Maidan/egn475-cafe-maidan)
+
+---
+
+### 🖥️ VirtualBox IT Support Lab
+
+**Windows Server | Active Directory | Group Policy | DNS | DHCP**
+
+Built a virtual IT environment to practice Windows Server
+administration, user management, network services, and
+troubleshooting across Windows and Ubuntu clients.
+
+---
+
+### 🌐 Network Configuration & Analysis
+
+**Cisco | VLANs | OSPF | ACLs | SSH | Wireshark**
+
+Configured and tested network services, routing protocols,
+access controls, and secure remote access. Analyzed network
+traffic using Wireshark.
+
+---
+
+### 🔐 Cybersecurity & Digital Forensics
+
+**Kali Linux | Nmap | Wazuh | OpenVAS | Autopsy**
+
+Performed hands-on security labs involving vulnerability
+assessment, security monitoring, network scanning, and
+digital forensic analysis.
+
+---
+
+### 🗄️ PostgreSQL Backup & Recovery
+
+**PostgreSQL | SQL | Database Administration**
+
+Practiced database backup, restoration, and point-in-time
+recovery (PITR), verifying restored data and database integrity.
+
+---
+
+<div align="center">
+
+[![More Repositories](https://img.shields.io/badge/Explore_All_My_Repositories-181717?style=for-the-badge&logo=github)](https://github.com/Mohamed-Maidan?tab=repositories)
+
+</div>
