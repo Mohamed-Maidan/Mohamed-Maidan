@@ -34,3 +34,29 @@ I'm continuing to develop my skills through real-world projects and preparing fo
 - 🏆 President's List — 2024–2026 | GPA: 4.0
 
 ---
+
+## 🛠️ Technical Skills & Tools
+
+<div align="center">
+
+### Programming & Databases
+
+<img src="https://skillicons.dev/icons?i=python,postgres,sqlite,flask" />
+
+### Operating Systems & IT Infrastructure
+
+<img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,bash" />
+
+### Development Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,html,css" />
+
+### Networking & Cybersecurity
+
+**Cisco Networking • VLANs • OSPF • DNS • DHCP • Active Directory**
+
+**Wireshark • Kali Linux • pfSense • Wazuh • Nmap**
+
+</div>
+
+---
