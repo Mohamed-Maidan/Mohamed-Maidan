@@ -124,3 +124,41 @@ recovery (PITR), verifying restored data and database integrity.
 [![More Repositories](https://img.shields.io/badge/Explore_All_My_Repositories-181717?style=for-the-badge&logo=github)](https://github.com/Mohamed-Maidan?tab=repositories)
 
 </div>
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohamed-Maidan&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Maidan&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_With_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-maidan-b5aa6a292)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Explore_My_Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohamed-Maidan?tab=repositories)
+
+</div>
+
+---
+
+<div align="center">
+
+### Thank you for visiting my portfolio!
+
+**Mohamed Salem Maidan**
+
+Information Technology | Networking | Cybersecurity
+
+🏆 President's List — 3 Consecutive Years (2024–2026)
+
+**GPA: 4.0 | Atlantis University**
+
+</div>
